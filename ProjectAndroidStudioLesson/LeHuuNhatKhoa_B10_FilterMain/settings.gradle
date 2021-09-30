@@ -1,0 +1,2 @@
+rootProject.name = "LeHuuNhatKhoa_B10_FilterMain"
+include ':app'

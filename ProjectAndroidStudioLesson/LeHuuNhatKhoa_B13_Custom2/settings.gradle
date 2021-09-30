@@ -1,0 +1,2 @@
+rootProject.name = "LeHuuNhatKhoa_B13_Custom2"
+include ':app'

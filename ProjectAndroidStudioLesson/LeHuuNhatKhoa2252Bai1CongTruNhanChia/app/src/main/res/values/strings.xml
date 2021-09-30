@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LeHuuNhatKhoa-2252-Bai1-CongTruNhanChia</string>
+    <string name="nh_p_a">Nhập A</string>
+    <string name="nh_p_b">Nhập B</string>
+    <string name="k_t_qu">Kết quả</string>
+</resources>
